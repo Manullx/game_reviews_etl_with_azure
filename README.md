@@ -119,7 +119,8 @@ Pronto, sua instância runtime Self-Hosted foi criada e agora você pode se cone
 
 ![Captura de tela 2025-04-04 204009](https://github.com/user-attachments/assets/b8bc48e7-f771-49c8-82e5-ff369d261763)
 
-![Captura de tela 2025-04-04 203955](https://github.com/user-attachments/assets/a8ab950a-4a8f-4ed0-8582-50312816341c)
+![image](https://github.com/user-attachments/assets/ca02f14e-0ddb-4817-b39a-869129d3fb30)
+
 
 **Voilà!** As análises antes presentes no ambiente on-promisses agora estão no ambiente Azure, prontas para serem utilizadas.
 
