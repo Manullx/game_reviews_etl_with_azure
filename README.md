@@ -2,8 +2,6 @@
 
 Olá, tudo bem contigo? 😃
 
-Este repositório tem como objetivo demonstrar meu conhecimento adquirido no bootcamp Microsoft AI for Tech - Azure Databricks da DIO.
-
 Inicialmente, o projeto simula a integração de um ambiente on-promisse com Azure, onde as análises de jogos da API da Steam são extraídas e armazenadas de forma crua em um banco de dados MongoDB. Após o armazenamento das análises, elas são migradas para o ambiente Azure atráves de uma pipeline criada com Azure Data Factory. O projeto pode ser modificado, tendo em vista que tenho o objetivo de utilizar os dados migrados para análise de dados e Machine Learning.
 
 Com 
